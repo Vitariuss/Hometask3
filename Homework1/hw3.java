@@ -32,6 +32,7 @@ public class hw3 {
             default:
                 System.out.println("Ошибка! Некорректный оператор.");
                 return;
+                
         }
 
         System.out.println("Результат: " + (int)result);
